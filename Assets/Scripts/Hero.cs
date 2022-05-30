@@ -18,11 +18,14 @@ public class Hero : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetMouseButtonDown(0)) {
-            anim.Play("attack1");
-        }
+        // if (Input.GetMouseButtonDown(0)) {
+        //     anim.Play("attack1");
+        // }
     }
-    void Attack() {
+    public void TriggerAttack() {
+         anim.Play("attack1");
+    }
+    public void Attack() {
             Instantiate(bullet, Shoot_point.position, transform.rotation);
     }
 }
