@@ -5,27 +5,27 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637894089932024208
-    m_Hash: 544977341
+      ticks: 637894999513215441
+    m_Hash: 1891798826
   m_LockFileStatus:
     m_FilePath: "C:/Users/Fox/Desktop/\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u043A/Wilda_Wild_forest/Packages/packages-lock.json"
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637894089932034278
-    m_Hash: 4285668627
+      ticks: 637894999525486203
+    m_Hash: 2493130457
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
   m_Packages:
     m_ResolvedPackages:
-    - packageId: com.unity.2d.animation@5.0.4
+    - packageId: com.unity.2d.animation@5.0.10
       testable: 0
       isDirectDependency: 1
-      version: 5.0.4
+      version: 5.0.10
       source: 1
-      resolvedPath: "C:\\Users\\Fox\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\\Wilda_Wild_forest\\Library\\PackageCache\\com.unity.2d.animation@5.0.4"
+      resolvedPath: "C:\\Users\\Fox\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\\Wilda_Wild_forest\\Library\\PackageCache\\com.unity.2d.animation@5.0.10"
       assetPath: Packages/com.unity.2d.animation
       name: com.unity.2d.animation
       displayName: 2D Animation
@@ -126,10 +126,12 @@ m_PackageAssets:
         - 7.0.3
         - 7.0.4
         - 7.0.5
+        - 7.0.6
         - 8.0.0-pre.3
         - 8.0.0-pre.4
         - 8.0.0
         - 8.0.1
+        - 9.0.0-pre.1
         compatible:
         - 5.0.4
         - 5.0.5
@@ -141,7 +143,7 @@ m_PackageAssets:
         verified: 5.0.10
       dependencies:
       - name: com.unity.2d.common
-        version: 4.0.3
+        version: 4.0.4
       - name: com.unity.mathematics
         version: 1.1.0
       - name: com.unity.2d.sprite
@@ -152,7 +154,7 @@ m_PackageAssets:
         version: 1.0.0
       resolvedDependencies:
       - name: com.unity.2d.common
-        version: 4.0.3
+        version: 4.0.4
       - name: com.unity.2d.sprite
         version: 1.0.0
       - name: com.unity.modules.uielements
@@ -184,13 +186,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637478931180000000
+      datePublishedTicks: 637750142350000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: 3cf59035d02a34d40d678f2cd5f1c65515a8347e
+        revision: 341b7316671d7e6703a7627f67c5fab262c4f1ac
         path: 
     - packageId: com.unity.2d.pixel-perfect@4.0.1
       testable: 0
@@ -345,6 +347,7 @@ m_PackageAssets:
         - 7.0.0-pre.3
         - 7.0.0-pre.4
         - 7.0.0
+        - 8.0.0-pre.1
         compatible:
         - 4.0.2
         - 4.1.0
@@ -361,7 +364,7 @@ m_PackageAssets:
         version: 1.0.0
       resolvedDependencies:
       - name: com.unity.2d.common
-        version: 4.0.3
+        version: 4.0.4
       - name: com.unity.2d.sprite
         version: 1.0.0
       - name: com.unity.modules.uielements
@@ -375,7 +378,7 @@ m_PackageAssets:
       - name: com.unity.modules.uielementsnative
         version: 1.0.0
       - name: com.unity.2d.animation
-        version: 5.0.4
+        version: 5.0.10
       - name: com.unity.mathematics
         version: 1.1.0
       - name: com.unity.modules.animation
@@ -547,6 +550,7 @@ m_PackageAssets:
         - 8.0.0-pre.4
         - 8.0.0-pre.5
         - 8.0.0
+        - 9.0.0-pre.1
         compatible:
         - 5.1.1
         - 5.1.2
@@ -569,7 +573,7 @@ m_PackageAssets:
       - name: com.unity.mathematics
         version: 1.1.0
       - name: com.unity.2d.common
-        version: 4.0.3
+        version: 4.0.4
       - name: com.unity.2d.sprite
         version: 1.0.0
       - name: com.unity.modules.uielements
@@ -720,6 +724,8 @@ m_PackageAssets:
         - 1.14.13
         - 1.14.15
         - 1.14.16
+        - 1.14.17
+        - 1.14.18
         - 1.15.1
         - 1.15.4
         - 1.15.7
@@ -728,6 +734,8 @@ m_PackageAssets:
         - 1.15.13
         - 1.15.15
         - 1.15.16
+        - 1.15.17
+        - 1.15.18
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -754,6 +762,8 @@ m_PackageAssets:
         - 1.14.13
         - 1.14.15
         - 1.14.16
+        - 1.14.17
+        - 1.14.18
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -1217,7 +1227,10 @@ m_PackageAssets:
         - 1.3.2
         - 1.4.1
         - 1.4.2
+        - 1.4.3
         - 2.0.0
+        - 2.0.1
+        - 2.0.2
         compatible:
         - 1.0.0-preview.4
         - 1.0.0-preview.5
@@ -1250,7 +1263,10 @@ m_PackageAssets:
         - 1.3.2
         - 1.4.1
         - 1.4.2
+        - 1.4.3
         - 2.0.0
+        - 2.0.1
+        - 2.0.2
         verified: 1.3.2
       dependencies:
       - name: com.unity.modules.androidjni
@@ -1336,6 +1352,7 @@ m_PackageAssets:
         - 1.1.29
         - 1.1.30
         - 1.1.31
+        - 2.0.1-exp.1
         - 2.0.1-pre.12
         - 2.0.1-pre.18
         compatible:
@@ -1345,6 +1362,7 @@ m_PackageAssets:
         - 1.1.29
         - 1.1.30
         - 1.1.31
+        - 2.0.1-exp.1
         - 2.0.1-pre.12
         - 2.0.1-pre.18
         verified: 1.1.31
@@ -3666,73 +3684,6 @@ m_PackageAssets:
         url: git@github.com:Unity-Technologies/Unity.Mathematics.git
         revision: 0a3dfafaf606098ea681de4c4be60f3aac63b773
         path: 
-    - packageId: com.unity.2d.common@4.0.3
-      testable: 0
-      isDirectDependency: 0
-      version: 4.0.3
-      source: 1
-      resolvedPath: "C:\\Users\\Fox\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\\Wilda_Wild_forest\\Library\\PackageCache\\com.unity.2d.common@4.0.3"
-      assetPath: Packages/com.unity.2d.common
-      name: com.unity.2d.common
-      displayName: 2D Common
-      author:
-        name: 
-        email: 
-        url: 
-      category: 2D
-      type: 
-      description: 2D Common is a package that contains shared functionalities that
-        are used by most of the other 2D packages.
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 4.0.2
-        - 4.0.3
-        compatible:
-        - 4.0.2
-        - 4.0.3
-        verified: 4.0.3
-      dependencies:
-      - name: com.unity.2d.sprite
-        version: 1.0.0
-      - name: com.unity.modules.uielements
-        version: 1.0.0
-      resolvedDependencies:
-      - name: com.unity.2d.sprite
-        version: 1.0.0
-      - name: com.unity.modules.uielements
-        version: 1.0.0
-      - name: com.unity.modules.ui
-        version: 1.0.0
-      - name: com.unity.modules.imgui
-        version: 1.0.0
-      - name: com.unity.modules.jsonserialize
-        version: 1.0.0
-      - name: com.unity.modules.uielementsnative
-        version: 1.0.0
-      keywords:
-      - 2d
-      registry:
-        id: main
-        name: 
-        url: https://packages.unity.com
-        scopes: []
-        isDefault: 1
-        capabilities: 7
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 0
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: c97def465b1932276762fc13f4cfee58da99d5e9
-        path: 
     - packageId: com.unity.2d.path@4.0.1
       testable: 0
       isDirectDependency: 0
@@ -3803,6 +3754,107 @@ m_PackageAssets:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/2d.git
         revision: 7d7470f4ca0ea8353d4c9640b3b6ae9d1ebd9c1d
+        path: 
+    - packageId: com.unity.2d.common@4.0.4
+      testable: 0
+      isDirectDependency: 0
+      version: 4.0.4
+      source: 1
+      resolvedPath: "C:\\Users\\Fox\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\\Wilda_Wild_forest\\Library\\PackageCache\\com.unity.2d.common@4.0.4"
+      assetPath: Packages/com.unity.2d.common
+      name: com.unity.2d.common
+      displayName: 2D Common
+      author:
+        name: 
+        email: 
+        url: 
+      category: 2D
+      type: 
+      description: 2D Common is a package that contains shared functionalities that
+        are used by most of the other 2D packages.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.9-preview.1
+        - 1.0.9-preview.2
+        - 1.0.10-preview
+        - 1.0.11-preview.1
+        - 1.1.0-preview.1
+        - 1.1.0-preview.2
+        - 1.2.0-preview.1
+        - 2.0.1
+        - 2.0.2
+        - 2.1.0
+        - 2.1.1
+        - 2.1.2
+        - 3.0.0
+        - 3.0.1
+        - 4.0.0
+        - 4.0.1
+        - 4.0.2
+        - 4.0.3
+        - 4.0.4
+        - 4.1.0
+        - 4.2.0
+        - 5.0.0-pre.1
+        - 5.0.0-pre.2
+        - 5.0.0
+        - 6.0.0-pre.2
+        - 6.0.0-pre.3
+        - 6.0.0-pre.4
+        - 6.0.0
+        - 6.0.1
+        - 6.0.2
+        - 6.0.3
+        - 7.0.0-pre.3
+        - 7.0.0-pre.4
+        - 7.0.0
+        - 8.0.0-pre.1
+        compatible:
+        - 4.0.2
+        - 4.0.3
+        - 4.0.4
+        verified: 4.0.4
+      dependencies:
+      - name: com.unity.2d.sprite
+        version: 1.0.0
+      - name: com.unity.modules.uielements
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.2d.sprite
+        version: 1.0.0
+      - name: com.unity.modules.uielements
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      - name: com.unity.modules.uielementsnative
+        version: 1.0.0
+      keywords:
+      - 2d
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637750142160000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/2d.git
+        revision: 341b7316671d7e6703a7627f67c5fab262c4f1ac
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
